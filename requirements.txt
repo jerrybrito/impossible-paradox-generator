@@ -1,0 +1,2 @@
+# Requires: phantom-stillness
+# (Not available on PyPI)
